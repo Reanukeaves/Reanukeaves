@@ -2,7 +2,7 @@
   <img width="70%" height="auto" src="https://www.benali.dev/hosting/githubDesk.PNG">
 </p>
 <p align="center">
-<a href="https://www.benali.dev/#about">☝️ Website 🤘</a>
+<a href="https://www.benali.dev/">🤘 Website 🤘</a>
 </p>
 <h1 align="center">
  links
