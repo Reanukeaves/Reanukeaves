@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img width="80%" height="auto" src="https://www.benali.dev/hosting/githubDesk.PNG">
+</p>
+<p align="center">
+<a href="https://www.benali.dev/#about" target="_blank">☝️ Continue Reading</a>
+</p>
 
-<!--
-**Reanukeaves/Reanukeaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [📦 NPM](https://www.npmjs.com/~reanukeeves)
+- [✏️ Codepen](https://codepen.io/reanukeaves)
+- [💼 Linkedin](https://www.linkedin.com/in/soufiane-benali-b803161a6/)
+- [📢 Discord](https://discord.com/users/ReanuKeeves#2892)
