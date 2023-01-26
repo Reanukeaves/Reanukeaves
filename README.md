@@ -5,11 +5,11 @@
 <a href="https://www.benali.dev/">🤘 Website 🤘</a>
 </p>
 <h1 align="center">
- links
+ Links
 </h1>
 <div align="center">
-  <a href="https://www.npmjs.com/~reanukeeves">📦 NPM</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/reanukeaves">✏️ Codepen</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/soufiane-benali-b803161a6/">💼 Linkedin</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/ReanuKeeves#2892">📢 Discord</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~reanukeeves">📦 NPM</a>&nbsp;|&nbsp;
+  <a href="https://codepen.io/reanukeaves">✏️ Codepen</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/soufiane-benali-b803161a6/">💼 Linkedin</a>&nbsp;|&nbsp;
+  <a href="https://discord.com/users/ReanuKeeves#2892">📢 Discord</a>&nbsp;&nbsp;
   </div>
